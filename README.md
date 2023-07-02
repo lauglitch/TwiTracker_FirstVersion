@@ -1,6 +1,9 @@
 # TwiTracker
 Desktop application that generates a file with a list of users' url you follow on twitter, but who don't follow you back.
 
+## Current Version
+1.0
+
 ## Previous Steps
 You will need to download data from your Twitter account to use this application.
 
