@@ -1,3 +1,6 @@
+# NEW!!!
+You can now try the new and faster TwiTracker Software on [lauglitch.itch.io/twitracker-firstversion](https://lauglitch.itch.io/twitracker-firstversion)
+
 # TwiTracker (First Version)
 Desktop application that generates a file with a list of users' url you follow on twitter, but who don't follow you back.
 
@@ -14,7 +17,7 @@ Go to your Twitter account > More > Settings and Support > Settings and Privacy 
 It will ask you to log again. Then, you will receive your Twitter data on you associated mail in a few days.
 
 ## How To Use
-1- Download application from https://lauglitch.itch.io/twitracker  
+1- Download application from [lauglitch.itch.io/twitracker-firstversion](https://lauglitch.itch.io/twitracker-firstversion)  
 2- Unzip your Twitter data (see Previous Steps)  
 3- Go to "data" folder and select files "follower.js" and "following.js"  
 4- Put these files in the application root  
