@@ -1,4 +1,4 @@
-# TwiTracker
+# TwiTracker (First Version)
 Desktop application that generates a file with a list of users' url you follow on twitter, but who don't follow you back.
 
 ## Web
@@ -21,6 +21,9 @@ It will ask you to log again. Then, you will receive your Twitter data on you as
 5- Execute "TwiTracker.exe"  
 6- Press "Exportar Datos" button and wait until you hear a sound  
 7- Look for the file "dataExport.txt" in the root of the app  
+
+## Technologies
+Developed with Unity 3D
 
 ## License
 GNU General Public License
