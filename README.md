@@ -5,7 +5,7 @@ You can now try the new and faster TwiTracker Software on [lauglitch.itch.io/twi
 Desktop application that generates a file with a list of users' url you follow on twitter, but who don't follow you back.
 
 ## Web
-[lauglitch.com](lauglitch.com)
+[lauglitch.com](https://www.lauglitch.com)
 
 ## Current Version
 1.0
